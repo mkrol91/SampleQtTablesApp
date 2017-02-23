@@ -5,5 +5,7 @@
         <file>Tab.qml</file>
         <file>CustomerTableView.ui.qml</file>
         <file>CustomerModelSingleton.qml</file>
+        <file>Settings.qml</file>
+        <file>SettingsForm.ui.qml</file>
     </qresource>
 </RCC>
