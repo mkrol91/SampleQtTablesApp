@@ -1,13 +1,13 @@
 import QtQuick 2.4
 import QtQuick.Controls 1.3
 import QtQuick.Layouts 1.1
+import my.customermodel.singleton 1.0
 
 Item {
-    width: 640
-    height: 480
     property alias splitView: splitView
     property alias tab: tab
     property alias tabView: tabView
+    property alias tableView: tableView
 
     SplitView {
         id: splitView

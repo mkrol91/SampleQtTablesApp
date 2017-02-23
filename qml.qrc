@@ -4,5 +4,6 @@
         <file>MainForm.ui.qml</file>
         <file>Tab.qml</file>
         <file>CustomerTableView.ui.qml</file>
+        <file>CustomerModelSingleton.qml</file>
     </qresource>
 </RCC>
