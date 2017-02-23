@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Tab.qml</file>
+        <file>CustomerTableView.ui.qml</file>
+    </qresource>
+</RCC>
