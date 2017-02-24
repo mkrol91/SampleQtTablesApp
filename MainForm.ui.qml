@@ -21,7 +21,7 @@ Item {
 
             Tab {
                 id: tab
-                source: "Tab.qml"
+                source: "SettingsForm.ui.qml"
                 title: "Customer Settings"
             }
 
@@ -29,7 +29,7 @@ Item {
                 id: tab1
                 x: -2
                 y: 8
-                source: "Tab.qml"
+                source: "NotesForm.ui.qml"
                 title: "Customer Notes"
             }
 
@@ -37,7 +37,7 @@ Item {
                 id: tab2
                 x: 3
                 y: 0
-                source: "Tab.qml"
+                source: "HistoryTableViewForm.ui.qml"
                 title: "Customer History"
             }
         }

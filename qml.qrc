@@ -7,5 +7,9 @@
         <file>CustomerModelSingleton.qml</file>
         <file>Settings.qml</file>
         <file>SettingsForm.ui.qml</file>
+        <file>HistoryTableView.qml</file>
+        <file>HistoryTableViewForm.ui.qml</file>
+        <file>Notes.qml</file>
+        <file>NotesForm.ui.qml</file>
     </qresource>
 </RCC>
