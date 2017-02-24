@@ -2,7 +2,6 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>MainForm.ui.qml</file>
-        <file>Tab.qml</file>
         <file>CustomerTableView.ui.qml</file>
         <file>CustomerModelSingleton.qml</file>
         <file>Settings.qml</file>
